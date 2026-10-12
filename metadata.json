@@ -1,0 +1,10 @@
+{
+  "name": "Weather Prediction India",
+  "description": "Modern, professional weather prediction and live meteorological dashboard for Indian cities powered by Open-Meteo API, Leaflet map, and Chart.js.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
